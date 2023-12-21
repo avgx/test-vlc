@@ -10,14 +10,14 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "TVVLCKit", 
-            url: "https://github.com/avgx/test-vlc/releases/download/2023-05-30/TVVLCKit.xcframework.zip", 
-            checksum: "e3cf63d33d6d109054307827558fb0a3aac58199b5dc0412440d04d9091506c7"
+            url: "https://github.com/avgx/test-vlc/releases/download/2023-12-21/TVVLCKit.xcframework.zip", 
+            checksum: "0ef587155f998c8db9e6ccaddb0b068cbc3844900485a9e2ea3efaef8b10e674"
         ),
         
         .binaryTarget(
             name: "MobileVLCKit", 
-            url: "https://github.com/avgx/test-vlc/releases/download/2023-05-30/MobileVLCKit.xcframework.zip", 
-            checksum: "e53f36611931977e1f84c0655678689a49c75b4487fdf53cc6b5b614bb07ad01"
+            url: "https://github.com/avgx/test-vlc/releases/download/2023-12-21/MobileVLCKit.xcframework.zip", 
+            checksum: "00194c870eef1aa6da1b1e93145814d6999f5c99973a5d4c9126a8c289370ee2"
         ),
     ]
 )
