@@ -16,8 +16,8 @@ let package = Package(
         
         .binaryTarget(
             name: "MobileVLCKit", 
-            url: "https://github.com/avgx/test-vlc/releases/download/2023-12-21/MobileVLCKit.xcframework.zip", 
-            checksum: "00194c870eef1aa6da1b1e93145814d6999f5c99973a5d4c9126a8c289370ee2"
+            url: "https://github.com/avgx/test-vlc/releases/download/2024-01-11/MobileVLCKit.xcframework.zip", 
+            checksum: "3f2848a2a67375d08144f823561441df528f55203145ca93cfae27029c77d346"
         ),
     ]
 )
