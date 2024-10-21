@@ -2,7 +2,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "VLCKit",
+    name: "VLCKitSPM",
     platforms: [.iOS(.v15), .tvOS(.v15)],
     products: [
         .library(name: "TVVLCKit", targets: ["TVVLCKit"]),
